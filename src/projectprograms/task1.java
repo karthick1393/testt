@@ -24,6 +24,7 @@ for(int i=0;i<a.size();i++){
 	}
 	System.out.println("one");
 	System.out.println("test1");
+	System.out.println("test2");
 
 }
 	}

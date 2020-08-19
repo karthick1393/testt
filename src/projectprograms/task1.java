@@ -22,7 +22,10 @@ for(int i=0;i<a.size();i++){
 		WebElement b=a.get(i);
 		System.out.println(b.getText());
 	}
+	System.out.println("one");
+	System.out.println("test1");
 	System.out.println("test2");
+
 }
 	}
 

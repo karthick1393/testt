@@ -23,6 +23,8 @@ for(int i=0;i<a.size();i++){
 		System.out.println(b.getText());
 	}
 	System.out.println("one");
+	System.out.println("test1");
+
 }
 	}
 
